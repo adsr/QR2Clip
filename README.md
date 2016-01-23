@@ -11,4 +11,5 @@ This repo contains the sole source file of the Android app. It depends on the
 ZXing library[1] at build time and the Barcode Scanner app[2] at runtime.
 
 [1] https://github.com/zxing/zxing
+
 [2] https://play.google.com/store/apps/details?id=com.google.zxing.client.android
